@@ -2,7 +2,7 @@
 ======
 
 
-##### Hello There!
+### **Hello There!**
 
 The Website is a bit barren at this moment...
 Nonetheless it will be filled with goodies in due time as I learn to work around
@@ -28,10 +28,10 @@ I intend to blog alongside my solution solving for my own sanity's sake.
 In the first problem I am going to present, the solution was short enough that fitting all the code within one class was a reasonable decision.
 Nonetheless, my commentary will criticize that decision as it made expanding my solution for the **_Additional Challenge_** fill the page with redundant code. The use of "Inheritance" (mainly) would have simplified the overall process.
 
-#### A Quick Note about myself
+### A Quick Note about myself!
 
 I do not at all consider myself to be a great coder/programmer but that may just be relative to your own expertise as a reader. I have been exposed to programming but my knowledge I feel is limited. Most of my efforts going into this are a learning experience for myself first before being teaching experience for others. 
 
 Heck I didn't even add a README.md yet...
 
-# Enjoy!
+### Enjoy!
