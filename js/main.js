@@ -1,3 +1,4 @@
+function popout(){
 var acc = document.getElementsByClassName("accordion");
 var i;
 
@@ -15,4 +16,5 @@ for (i = 0; i < acc.length; i++) {
             panel.style.display = "block";
         }
     });
+}
 }
