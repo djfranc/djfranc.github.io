@@ -1,4 +1,5 @@
-# The Shopping List Calculator (Tax Calulator)
+# The Shopping List Calculator\
+(Tax Calculator)
 
 ##### Link to Tax Calculator repo [here](https://github.com/djfranc/Shopping-List-Tax-Calculator)
 
