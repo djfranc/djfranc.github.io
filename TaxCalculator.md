@@ -1,12 +1,12 @@
 # The Shopping List Calculator (Tax Calulator)
 
-##### Link to Tax Calculator repo here (not active yet)
+##### Link to Tax Calculator repo [here](https://github.com/djfranc/Shopping-List-Tax-Calculator)
 
 *Little sidenote: Slowly but surely I'm getting the website underway, and what better way to do so than  a little project*
 
 
 ### Description:
-###### Title: Tax Calculator
+##### Title: Tax Calculator
 
 **Difficulty: 1**
 
@@ -18,7 +18,7 @@
 
 
 
-###### **Approach:** 
+##### **Approach:** 
 
 First thing to do when a to see how a computer would be able to work with. 
 The first sentence of the description describes the input variables, the second the output variables.
