@@ -6,7 +6,7 @@
 
 
 ### Description:
-######Title: Tax Calculator
+###### Title: Tax Calculator
 
 **Difficulty: 1**
 
@@ -18,7 +18,7 @@
 
 
 
-Approach: 
+###### **Approach:** 
 
 First thing to do when a to see how a computer would be able to work with. 
 The first sentence of the description describes the input variables, the second the output variables.
@@ -49,9 +49,10 @@ Everytime I make a GUI I have a habit of including a draft user story.
 
 **USER STORIES:** 
 
-Actor(s): User
+Actor(s): User 
+
 Stories:
-As a user I want an add button to add more than one item.
-As a user I want to be able to clear and restart my calculations.
-As a user I want to be able to take off taxes on certain items.
+- As a user I want an add button to add more than one item.
+- As a user I want to be able to clear and restart my calculations.
+- As a user I want to be able to take off taxes on certain items.
 
