@@ -14,6 +14,7 @@ Problems will be revisited to provide those alternate solutions.
 Key terms to remember and reading sources will also be provided through each problem.
 
 ##### Example
+
 In the first problem I am going to present, the solution was short enough that fitting all the code within one class was a reasonable decision.
 Nonetheless, my commentary will criticize that decision as it made expanding my solution for the **_Additional Challenge_** fill the page with redundant code. The use of "Inheritance" (mainly) would have simplified the overall process.
 
@@ -22,7 +23,7 @@ I intend to blog alongside my solution solving for my own sanity's sake.
 
 ### A Quick Note about myself!
 
-I do not at all consider myself to be a great coder/programmer but that may just be relative to your own expertise as a reader. I don't have much time to tend to the blog so if it's slow progress it's because I am busy.  
+I do not at all consider myself to be a great coder/programmer but that may just be relative to your own expertise as a reader *(this will change, I learn quick ;) )*. I don't have much time to tend to the blog so if it's slow progress it's because I am busy.  
 
 Heck I didn't even add a README.md to my projects yet...
 
