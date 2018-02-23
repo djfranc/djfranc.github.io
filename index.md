@@ -1,25 +1,12 @@
 # Welcome to The Blue Anthill!
 
+### *"...having a passion is a rare thing, so following it through and working hard, even when it's tough, is important." Jessica Springsteen*
 
+-----------------------
 
-### **Hello There!**
-
-The Website is a bit barren at this moment... Most of this is placeholder filler.
-Nonetheless it will be filled with goodies in due time as I learn to work around
-**Github Pages**, **Repos** on **Github Pages** and **Jekyll/Ruby**.
-
-In the mean time enjoy the blue scenery!
-
-There's a lot I need to catch up on before I end up posting the project solutions on Github.
-
-
-
-
-### Description
+### Site Summary
 
 The purpose of this site is to be a host for my solving and analysis of hundreds of solutions on programming ideas. Ironically the book we will be using the most will is called **The Programming Idea Book** by Martyr2 *(It's not his real name obviously...)* and do note that I will post the source of the problem otherwise. 
-
-
 
 I will attempt to solve every problem in the book in C# starting from easiest and ending with the hardest problems. Additionally commentary will be added by myself on the thought process to approaching the issue. Essentially most of the discussions will center around benefits and disadvantages to solving problems in my approach and how to make them: be more effective, allow for easy expansion, follow MVC when possible etc. 
 
@@ -35,11 +22,13 @@ I intend to blog alongside my solution solving for my own sanity's sake.
 
 ### A Quick Note about myself!
 
-I do not at all consider myself to be a great coder/programmer but that may just be relative to your own expertise as a reader. I have been exposed to programming but my knowledge I feel is limited. Most of my efforts going into this are a learning experience for myself first before being teaching experience for others. 
+I do not at all consider myself to be a great coder/programmer but that may just be relative to your own expertise as a reader. I don't have much time to tend to the blog so if it's slow progress it's because I am busy.  
 
-Heck I didn't even add a README.md yet...
-
-
+Heck I didn't even add a README.md to my projects yet...
 
 
-### Enjoy!
+## Stay Classy and Enjoy The Ride!!!
+
+*All the projects will be on the sidebar to the right.*
+*They are added well after I've completed the problem and are commented out on weekends.*
+*Expect massive weekend updates*
