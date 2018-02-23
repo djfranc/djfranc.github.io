@@ -5,7 +5,6 @@
 
 
 ### Description:
-##### Title: Tax Calculator
 
 **Difficulty: 1**
 
