@@ -1,3 +1,11 @@
+---
+
+layout: default
+title: The Bloggerdome
+
+---
+
+
 # Getting Started on Github Pages
 
 ### The long road ahead...
