@@ -9,7 +9,7 @@
 Welcome to the site is to be a host for my solving and analysis of hundreds of solutions on programming ideas! Ironically the book we will be using the most will is called **The Programmer Idea Book** by Martyr2 *(It's not his real name obviously...)*. Do note that I will post the source of the problem otherwise. 
 
 <p align="center">
-<img src= http://www.coderslexicon.com/wp-content/uploads/2013/02/ebook-cover.png>
+<img src= "http://www.coderslexicon.com/wp-content/uploads/2013/02/ebook-cover.png">
 </p>
 
 Every problem in the book is solved using C#, starting from easiest and ending with the hardest problems. Additionally commentary will be added by myself on the thought process to approaching the issue. Essentially most of the discussions will center around benefits and disadvantages to solving problems in my approach and how to make them: be more effective, allow for easy expansion, follow MVC when possible etc. 
