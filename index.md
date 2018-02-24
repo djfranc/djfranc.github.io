@@ -1,4 +1,4 @@
-# Welcome to The Blue Anthill!
+# Welcome to The Blueprint Anthill!
 
 ### *"...having a passion is a rare thing, so following it through and working hard, even when it's tough, is important." Jessica Springsteen*
 
