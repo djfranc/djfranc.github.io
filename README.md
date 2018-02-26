@@ -9,6 +9,6 @@ Each Subfolder used for html navigation is a Github Project Page repo that mimic
 I would encourage people to try and come up with more memory efficient methods of incorporating custom subfolders 
 using the Automatic generator.
 
-Projects are solved using The Programmer idea Book.
+Projects are using The Programmer Idea Book.
 
 *This github user site is using the Architect Theme.*
