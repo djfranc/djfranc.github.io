@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to The Blueprint Anthill!
 
 ### *"...having a passion is a rare thing, so following it through and working hard, even when it's tough, is important." Jessica Springsteen*
@@ -37,3 +38,19 @@ Heck I didn't even add a README.md to my projects yet... I promise I will this w
 *All the projects will be on the sidebar to the right.*
 *They are added well after I've completed the problem and are commented out on weekends.*
 *Expect massive weekend updates*
+=======
+# djfranc.github.io
+
+##### Me messing around with the Automatic Template.
+
+
+### This Github Pages User Site contains incorporates all the different project repos and blog repo within it.
+
+Each Subfolder used for html navigation is a Github Project Page repo that mimics the style of file pathing.
+I would encourage people to try and come up with more memory efficient methods of incorporating custom subfolders 
+using the Automatic generator.
+
+Projects are using The Programmer Idea Book.
+
+*This github user site is using the Architect Theme.*
+>>>>>>> origin/master
