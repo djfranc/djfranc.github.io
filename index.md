@@ -6,10 +6,10 @@ title: The Bloggerdome
 ---
 
 # Updates:
-## * Difficulty 1: programs all finished. (Working on commenting and Readmes)
-## * Difficulty 2: in progress... 
-### * Blog March 25th added
-#### * Working on seperating the normal personal blog with a Media blog for entertainment purposes and one specfiically for coding.
+ * Difficulty 1: programs all finished. (Working on commenting and Readmes)
+ * Difficulty 2: in progress... 
+ * Blog March 25th added
+ * Working on seperating the normal personal blog with a Media blog for entertainment purposes and one specfiically for coding.
 
 
 ---
