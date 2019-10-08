@@ -16,7 +16,7 @@ title: The Bloggerdome
 
 ### What is the way of thinking that you’ve made into your mantra?
 
-Last summer, my consistency in going to the gym had cemented with my daily routine and it became a serious. With time, something changed within me as applied concepts of how I approach training towards my life and the people within my circles. There’s something different today, I still don’t know what it is, but I think those who speak to me recognize it better than I can. 
+Last summer, my consistency in going to the gym had cemented with my daily routine as it became a serious hobby. With time, something changed within me as applied concepts of how I approach training towards my life and the people within my circles. There’s something different today, I still don’t know what it is, but I think those who speak to me recognize it better than I can. 
 
 **A sense of trust? A feeling of safety? An aura of respect?** I can’t describe it.
 Maybe I’m just delusional?
