@@ -6,26 +6,40 @@ title: The Bloggerdome
 ---
 
 # Updates:
- * Difficulty 1: programs all finished. (Working on commenting and Readmes)
- * Difficulty 2: in progress... 
- * Blog March 25th added
- * Working on seperating the normal personal blog with a Media blog for entertainment purposes and one specfiically for coding.
-
+ * Revived via Pheonix Down
 
 ---
-# March 25th 2018: 
-# Taking a step back and being critical
+# October 7, 2019:
+# You’ll Find Me in the Lost and Found Cabinet
 
-#### I have no quotes for this post but I recommend reading the book "How to Win Friends and Influence People" by Dale Carnegie. It was first published in 1936 but the wealth of information obtained from reading it is invaluable and timeless. If you do decide to pick it up, read slow and reflect after every chapter.
+*This post might feel segmented and the flow might be off. It is a collection of thoughts and summarizations of what has happened throughout my year of absence edited into a blog post.*
 
-![](http://universaljp.org/wp-content/uploads/2017/08/Sem-T%C3%ADtulo-1.jpg)
+### What is the way of thinking that you’ve made into your mantra?
 
-We're still in business folks! I am back from a month (half of a month more accurately) filled with unique and interesting experiences. I have been exploring myself, the people around me and applying every piece of valuable knowledge handed to me. Let's just say that my birthday passed around that time period and I almost forgot about it. Yeah! No biggie! My birthday week was enjoyable on smaller scale and I wouldn't have traded the people I shared it with with anyone else.
+Last summer, my consistency in going to the gym had cemented with my daily routine and it became a serious. With time, something changed within me as applied concepts of how I approach training towards my life and the people within my circles. There’s something different today, I still don’t know what it is, but I think those who speak to me recognize it better than I can. 
 
-At this point in my life being super focused on things I want to get done. I realize now that I should take it at a pace to which I can enjoy the journey. This is something I've been putting into practice for the past couple of weeks. It still requires me to be a time management freak but after putting the plans into motion they stop being plans and just a way of life. Through reading a lot of book on toxic habits that we inflict on ourselves, I've come to sit back and reflect on every activity and interaction I engage with during the day.
+**A sense of trust? A feeling of safety? An aura of respect?** I can’t describe it.
+Maybe I’m just delusional?
 
-It takes patience and being selfless to really be critical about your life and your goals. It's already a challenge to figure out who we are, but to then be critical about it and figure out who we want to be is like starting out in the gym with weights that are 5x times what we can handle. Not everyone has the willpower to even train towards reaching self-fulfillment goals and it is much easier push the struggle aside and feel comfortable. Yet, usually by the end of it, those who put in the effort avoid the permanent scars of regret. Being comfortable comes with the inevitable consequence of boredom. On the other hand, reaching personal goals keeps pushing your mind to strive towards new limits.
+A year ago I took the time to: find a career path, a way I could enjoy the process of learning and pushed myself towards the person I’ve wanted to be described as. This led to me reading and researching, meeting new people with constructive points of views and challenging my physical and mental strengths. While I was on this path, I had the opportunity to be entrusted to travel to Europe on behalf of my work company. The process was accelerated, it was the right set of circumstances to start anew in my habits, my career and my life choices.
 
-![](http://minibego.com/wp-content/uploads/2011/11/spiderman-with-great-power-comes-great-responsibility1.jpg)
+![](https://www.mckinsey.com/~/media/McKinsey/Featured%20Insights/Leading%20in%20the%2021st%20Century/Change%20leader%20change%20thyself/Boaz%20Fox_1536x1536_Original.ashx)
 
-To paraphrase a passage from one of the books I read over the past couple of weeks: You can tell almost everything about a person based on where they get their feeling of **"self-importance"**. I think stepping back, reflecting, and being critical about where get get our feeling of importance is a good place to start looking for goals.
+Not everybody has the chance to jumpstart starting anew, but I don’t think it is the key to change. I should emphasize, as I look back at my roomate’s slothing lifestyle in contrast to mine during my stay in Europe, I now conclude that the willpower to change overcomes the circumstances from which that change has to rise from. The playing field was even (as even as it could be) for both of us but the effort I put in made the difference. It was almost like looking at a reflection of my old self. A person not looking to progress in any personal goals and grow while being happy in staying comfortable. It’s not a bad life, but I do have a need for feeling like I am useful for a purpose. If you have any inkling of this feeling, it eventually catches up with you over time in the forms of: boredom, frustration, anger and regret. Nonetheless I do acknowledge the privilege I had to make changes free of cost.
+
+**Change comes with discomfort.**
+
+I don’t look at my progress often. It is a good confidence booster but it can be depressing or encouraging based on your mood and perspective in the moment of making a comparison. I tell myself I should always be improving from today’s starting point. It is a more realistic approach and avoids the fear of the big grandiose picture of a challenge.
+
+## *Aside*
+I’ve been absent for a year on blog writing but it doesn’t mean I’ve lost the passion. Writing is something I love doing, but I’ve had to put it aside for other priorities to take my life in the direction I’ve always wanted to take it. This past year hasn’t been easy, a year of disciplining myself and exploring ways of making that process enjoyable. All my focus being on harsh self-criticism and progress awareness while creating and internalizing self-taught techniques to tackle obstacles that came my way. I have a lot to share and can’t wait to find a way to make these entries shorter to share them all =P.
+
+**Quotes From Conversations: **
+
+*"An excuse can be valid but there is no excuse to not try your best within your own set of circumstances."*
+
+*"There is no 1 way of reaching a certain point. If there was we wouldn’t all be different people with different strengths and weaknesses."*
+
+*"Learn from failures and laugh at them in hindsight, be proud to acknowledge and own them."*
+
+*"Old approaches don’t generate new results."*
