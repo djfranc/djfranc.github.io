@@ -25,11 +25,11 @@ A year ago I took the time to: find a career path, a way I could enjoy the proce
 
 ![](https://www.mckinsey.com/~/media/McKinsey/Featured%20Insights/Leading%20in%20the%2021st%20Century/Change%20leader%20change%20thyself/Boaz%20Fox_1536x1536_Original.ashx)
 
-Not everybody has the chance to jumpstart renewal, but I don’t think it was the key to the changes that followed. 
+Not everybody has the chance to jumpstart a lifestyle renewal, but I don’t think it was the key to the changes that followed. 
 
 I should emphasize. 
 
-As I look back at my roomate’s slothing lifestyle in contrast to mine during my stay in Europe, I now conclude that the willpower to change overcomes the circumstances from which that change has to rise from. **The playing field was even** (as even as it could be) for both of us but the effort I put in made the difference. It was journey of looking at a reflection of my old self while growing into the me I wanted to be. The reflection of a person not looking to progress in any personal goals and grow while being happy in staying comfortable. It’s not a bad life, but I do have a need for feeling like I am useful for a purpose. If you have any inklings of this feeling, it eventually catches up with you over time in the forms of: boredom, frustration, anger and regret. Nonetheless I do acknowledge the privilege I had to make changes free of cost.
+As I look back at my roomate’s slothing lifestyle in contrast to mine during my stay in Europe, I now conclude that the willpower to change overcomes the circumstances from which that change has to rise from. **The playing field was even** (as even as it could be) for both of us but the effort I put in made the difference. It was a journey of looking at a reflection of my old self while growing into the me I wanted to be. The reflection of a person not looking to progress in any personal goals and grow while being happy in staying comfortable. It’s not a bad life, but I do have a need for feeling like I am useful for a purpose. If you have any inklings of this feeling, it eventually catches up with you over time in the forms of: boredom, frustration, anger and regret. Nonetheless I do acknowledge the privilege I had to make changes free of cost.
 
 **Change comes with discomfort.**
 
